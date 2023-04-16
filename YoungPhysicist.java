@@ -1,3 +1,5 @@
+//https://codeforces.com/contest/69/problem/A
+
 import java.util.Scanner;
 
 public class YoungPhysicist{

@@ -1,3 +1,4 @@
+//https://codeforces.com/contest/1154/problem/A
 import java.util.Scanner;
 import java.util.Arrays;
 public class RestoringThreeNumber

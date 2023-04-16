@@ -1,3 +1,5 @@
+//https://codeforces.com/contest/1759/problem/A
+
 import java.util.Scanner;
 public class YesYes {
     public static void main(String[] args) {

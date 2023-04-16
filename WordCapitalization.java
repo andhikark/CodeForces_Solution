@@ -1,3 +1,5 @@
+//https://codeforces.com/contest/281/problem/A
+
 import java.util.Scanner;
 public class WordCapitalization {
     public static void main(String[] args ){

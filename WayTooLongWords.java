@@ -1,3 +1,4 @@
+//https://codeforces.com/contest/71/problem/A
 import java.util.Scanner;
 public class WayTooLongWords {
     public static void main(String[] args) {
