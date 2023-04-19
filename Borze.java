@@ -1,3 +1,5 @@
+//https://codeforces.com/problemset/problem/32/B 
+
 import java.util.Scanner;
 public class Borze
 {
