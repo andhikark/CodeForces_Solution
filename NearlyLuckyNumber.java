@@ -18,6 +18,6 @@ public class NearlyLuckyNumber {
        }else{
            System.out.print("NO");
        }
-       
+       sc.close();
     }
 }

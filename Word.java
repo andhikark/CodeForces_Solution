@@ -21,6 +21,6 @@ public class Word {
             System.out.print(s.toLowerCase());
         }
         
-        
+        sc.close();
     }
 }

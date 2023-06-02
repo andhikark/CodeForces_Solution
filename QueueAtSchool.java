@@ -12,8 +12,8 @@ public class QueueAtSchool {
         char[] ch = s.toCharArray();
         
         for(int j = 0; j < x;j++){
-            for(int i = 0; i < ch.length;i++){
-                if(ch[i] == 'B' && i != ch.length - 1 && ch[i + 1] != 'B'){
+            for(int i = 0; i < n;i++){
+                if(ch[i] == 'B' && i != n - 1 && ch[i + 1] != 'B'){
                     char temp = ch[i];
                     ch[i] = ch[i + 1];
                     ch[i + 1] = temp;
@@ -25,5 +25,6 @@ public class QueueAtSchool {
         for(char a : ch){
             System.out.print(a);
         }
+        sc.close();
     }
 }
